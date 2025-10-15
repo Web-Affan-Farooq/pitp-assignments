@@ -1,12 +1,12 @@
 [project]
-name = "example-app"
+name = "student-performance-dashboard"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.13"
 dependencies = [
     "numpy>=2.3.3",
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
-    "questionary>=2.1.1",
+    "streamlit>=1.50.0",
 ]
